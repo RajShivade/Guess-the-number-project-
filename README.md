@@ -1,4 +1,4 @@
-# Guess the Number Project Documentation:-
+# Guess the Number Project :-
 
 # Overview:-
 
